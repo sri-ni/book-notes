@@ -3,15 +3,21 @@
 ## Key Techniques
 - Mirroring
 - Labeling
-- Get to "No" asap
+- Get to "No" ASAP
 - That's Right
 - The F(air) word
+- Never split the difference
 
 ## Rough Notes
 
 ### Labeling
 Labeling is when you say "It seems like...", "It sounds like...".
 Basically, label the emotions that the person is going through.
+
+## Getting to "No" ASAP
+Is now a bad time to talk for a few (~n) mins?
+How you given up on this?
+Do you want this project to fail?
 
 ### Fair word
 
@@ -30,3 +36,14 @@ Basically, label the emotions that the person is going through.
 #### Positive usage
 
 > I want to be fair in this exchange and if at any point you feel things are unfair, feel free to stop me and we can discuss it.
+
+## Never split the difference
+
+Never hide your timelines or deadlines.
+Leverage it both ways.
+
+Walk away.
+
+Don't meet in the middle.
+
+Never compromise. It's easy and not valuable.
