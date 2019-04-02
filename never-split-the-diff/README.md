@@ -47,3 +47,16 @@ Walk away.
 Don't meet in the middle.
 
 Never compromise. It's easy and not valuable.
+
+## Bending Reality
+
+Ensure that there is something to lose if they don't take it.
+
+## Giving Control
+
+> How am I supposed to do that?
+
+Use the following words **only**
+- How?
+- What?
+
