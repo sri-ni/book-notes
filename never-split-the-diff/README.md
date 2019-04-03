@@ -63,3 +63,40 @@ Use the following words **only**
 Regulate your emotions. This is key.
 
 Japanese businessmen use translators, even if they know English to enable them to pause and think.
+
+## Guarantee Execution
+
+Visualize and modify sub surface issues
+
+Yes is nothing with out how
+
+Asking, knowing, defining how
+
+Ask calibrated how questions. again and again and keep them engaged.
+They will give them illusion of control. They will contemplate your problems in making demands.
+Use how to shape negotiating environment. "How can I do that?" gentle version. 
+It will push for other solutions. Your solutions. They will big against themselves.
+
+Pay attention.
+Identify motivations of people behind the negotiations. "How will this affect or on-board those not present here?"
+
+73855 percent rule.
+7% words
+38% tone
+55% body language and facial expressions
+
+Rule of 3
+CCC
+Affirm 3 times.
+Counterfeit Yes
+Confirmation Yes
+Commitment Yes
+
+Pronouns
+I/me/my - real power elsewhere
+we/they/them - dealing with savvy decision maker
+
+Use your own name make real
+humor
+humanity
+personal discount
