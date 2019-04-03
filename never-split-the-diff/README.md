@@ -60,3 +60,6 @@ Use the following words **only**
 - How?
 - What?
 
+Regulate your emotions. This is key.
+
+Japanese businessmen use translators, even if they know English to enable them to pause and think.
