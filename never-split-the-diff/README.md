@@ -100,3 +100,31 @@ Use your own name make real
 humor
 humanity
 personal discount
+
+## Bargain Hard
+
+Conflict is the path to great deals.
+Best have fun engaging in it.
+Conflict brings out truth, creativity and resolution.
+
+### Identify negotiating style.
+- Analyst
+- Accommodator
+- Assertive
+
+### Prepare. Prepare. Prepare.
+Fall to highest level of preparation.
+Game out labels, calibrated questions and responses.
+- Lead with extreme anchor.
+- Prepare dodging tactics.
+- Prepare punches and punch back.
+- The person at table is not a problem. The situation is.
+
+### Acreman plan
+- extreme anchor
+- calibrated questions
+- well defined increments offers
+    - 65, 85, 95, 100
+    - decreasing raises
+    - non-round numbers
+
