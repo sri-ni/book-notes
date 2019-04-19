@@ -128,3 +128,23 @@ Game out labels, calibrated questions and responses.
     - decreasing raises
     - non-round numbers
 
+## Find the Black Swan
+What we dont know can kill our deals. Uncovering it will bring unexpected success.
+
+- unknown unknowns
+- intrinsically difficult
+- before and after meeting few mins
+- counterpart doesn't know importance
+- known knowns guides but not blinds
+- leverage multipliers - positive, negative, normative
+- other side religion - world views of counterpart
+- review and double check
+- backup listeners; between lines
+- exploit similarity; risk averse
+- irrational or crazy - they aren't
+- search for constraints, hidden desires, bad information
+- get facetime; instead of days of research
+- pay attention to verbal or non-verbal moments at unguarded moments; 
+    - beginning or end of session; or 
+    - when someone says something out of line 
+
