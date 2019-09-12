@@ -63,6 +63,38 @@ Kubernetes cluster - with bunch of nodes. k8s software & container runtime. sitt
 
 It is also self-healing on nodes.
 
-Moving the app cluster between clouds onprem or otherwise is a cinch.
+Moving the app cluster between clouds on-prem or otherwise is a cinch.
 
 Maintaining containerized apps at scale.
+
+## Prep to thrive in a container world
+
+Get your hands dirty. Docker desktop. Play with (docker | kubernetes) links online.
+Many related pluralsight courses of course.
+
+Talk to various teams. Have a small team initiative with a SWAT team.
+
+Logging and Monitoring.
+
+Talk! Prepare!
+
+## Suitable Workloads
+
+Types of applications that containers are good for or not.
+
+D & K are good at both stateful and stateless. Have added features for stateful apps.
+Stateful - has to remember stuff.
+Stateless - does not remember stuff.
+
+Develop apps that are...
+- modern
+- scalable
+- portable
+- self-healing 
+
+Docker Inc. lift and shift. modernizing legacy/vintage/heritage apps.
+
+> Get ready for change.
+
+
+ 
