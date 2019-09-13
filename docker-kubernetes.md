@@ -96,5 +96,31 @@ Docker Inc. lift and shift. modernizing legacy/vintage/heritage apps.
 
 > Get ready for change.
 
+## Enterprise and Production readiness
 
+Docker
+- Community and Enterprise editions.
+- EE gets a ton of stuff. Private regs. FIPS. Support etc.
+
+Kubernetes
+- On Prem
+- Cloud 
+    - Azure, Google, AWS
+- Alpha, beta, GA
+- Open source
+
+They have a sizable ecosystem.
+
+## Orchestration
+
+Like a football team players have different roles. Coach orchestrates.
+
+Have a game plan. Describe the app and it's pieces.
+Ensure startups and scheduling. Give key to k8s. Orchestrator manages the app.
+App manifest is the gameplan. Services are the players.
+
+## Next Steps
+
+Courses. Books. Online playgrounds. Events. 
+Nigel Poulton is the author.
  
