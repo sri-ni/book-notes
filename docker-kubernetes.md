@@ -85,6 +85,7 @@ Types of applications that containers are good for or not.
 D & K are good at both stateful and stateless. Have added features for stateful apps.
 Stateful - has to remember stuff.
 Stateless - does not remember stuff.
+Customer visiting a restaurant example.
 
 Develop apps that are...
 - modern
